@@ -14,6 +14,7 @@ Ministry of Railway
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2025-05-20 113230](https://github.com/user-attachments/assets/7d681af7-5b38-48aa-9f8d-cc8ba228c711)
 
 
 ## Use Cases
