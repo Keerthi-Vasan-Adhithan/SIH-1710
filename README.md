@@ -1,8 +1,8 @@
 # Live link - https://keerthi-vasan-adhithan.github.io/SIH-1710/
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 20.05.2025
+## Register Number: 212222240048
+## Name: Keerthi Vasan A
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
